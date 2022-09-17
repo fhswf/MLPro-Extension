@@ -1,2 +1,2 @@
 # MLPro-Extension
-MLPro - Template for extensions
+MLPro - Template for 3rd party extensions
