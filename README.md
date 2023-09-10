@@ -1,3 +1,3 @@
-[MLPRO-EXTENSION-MARKER (marker to get listed in MLPro marketplace...)]::
+[MLPRO-EXTENSION-MARKER]::
 # MLPro-Extension
 MLPro - Template for 3rd party extensions
