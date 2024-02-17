@@ -8,6 +8,12 @@ Project Title
 
 Welcome to ...
 
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Home
+
+   self
 
 
 .. toctree::
